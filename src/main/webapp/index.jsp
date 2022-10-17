@@ -18,8 +18,8 @@
 		<h1>로그인 로직 생성</h1>
 		<br><hr><br>
 	</div>
-	<h3>reset-test01</h3>
-	<h3>reset-test02</h3>
+	<h3>커밋스</h3>
+	
 	
 </body>
 </html>
