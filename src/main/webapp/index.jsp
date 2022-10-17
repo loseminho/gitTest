@@ -19,6 +19,7 @@
 		<br><hr><br>
 	</div>
 	<h3>reset-test01</h3>
+	<h3>reset-test02</h3>
 	
 </body>
 </html>
